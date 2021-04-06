@@ -1,0 +1,9 @@
+INSERT INTO credentials 
+(
+    scenario,username,password
+)
+VALUES 
+(
+    'New Test', 'Susan','7890'
+);
+
